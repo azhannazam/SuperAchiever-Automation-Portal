@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Local Data (Privacy)
+data/supere.db
+data/daily_submissions/
+*.xlsx
+*.xls
+
+# Python Cache
+__pycache__/
+*.pyc
